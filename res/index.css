@@ -1,0 +1,130 @@
+#cello_blurb
+{
+    margin-top: 2em;
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+#main_page_title
+{
+	font-weight: bolder;
+	font-size: 4rem;
+}
+
+#about_button
+{
+    margin-top: 1em;
+    display: block;
+    background: white;
+    padding: 1rem;
+    width: 8rem;
+    font-size: 0.3em;
+    color: skyblue;
+    transition: 0.5s;
+	border-radius: 3px;
+	border-color: skyblue;
+	border: solid 1px skyblue;
+	display: inline-block;
+	text-align: center;
+}
+
+#about_button:hover
+{
+	background-color: skyblue;
+	color: white;
+}
+
+#register_button
+{
+    margin-top: 1em;
+    display: block;
+    background: white;
+    padding: 1rem;
+    width: 5.5rem;
+    font-size: 0.3em;
+    color: skyblue;
+    transition: 0.5s;
+	border-radius: 3px;
+	border-color: skyblue;
+	border: solid 1px skyblue;
+	display: inline-block;
+}
+
+#register_button:hover
+{
+	background-color: skyblue;
+	color: white;
+}
+
+#secondary_title
+{
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 5em;
+    padding-bottom: 1em;
+    font-size: 2em;
+}
+
+#main_page_mission
+{
+    margin-top: 2em;
+    margin-left: 10%;
+    font-size: 4em;
+    margin-bottom: 1.5em;
+}
+
+#main_page_mission span
+{
+    font-size: 0.5em;
+}
+
+#trio_image
+{
+    width: 100%;
+}
+
+#instrument_catalog_wrapper
+{
+	margin-top: 5rem;
+	width: 80%;
+    margin-left: 10%;
+    margin-bottom: 10em;
+}
+
+.instrument_catalog_item
+{
+	background-color: white;
+	text-align: center;
+	color: black;
+	margin-bottom: 1%;
+	margin-right: 1%;
+	display: inline-block;
+	width: 31.2%;
+	border: 1px black solid;
+	height: 30rem;
+	font-size: 18px;
+	vertical-align: top;
+}
+
+.instrument_catalog_item img
+{
+	width: 100%;
+	padding-bottom: 1rem;
+}
+
+label
+{
+    color: white;
+}
+
+.background_image
+{
+    float: right;
+    width: 50%;
+}
+
+.cello_image
+{
+    float: left;
+    height: 25em;
+}

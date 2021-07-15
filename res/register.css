@@ -1,0 +1,96 @@
+#alternative_registration_button
+{
+	background-color: #E0E0E0;
+	width: 50%;
+	border: none;
+	padding: 10px;
+	margin: auto;
+	margin-left: 25%;
+}
+
+#music_sheet_image
+{
+    float: right;
+    width: 40%;
+}
+
+#help_blurb
+{
+    width: 40%;
+    margin-left: 10%;
+}
+
+#register_lesson_blurb
+{
+    margin-bottom: 16em;
+}
+
+#lessons_blurb_title
+{
+    font-weight: bolder;
+    font-size: 1.5em;
+    margin-left: 10%;
+    margin-bottom: 1em;
+}
+
+#registration_form
+{
+    width: 60%;
+    margin-left: 20%;
+    margin-bottom: 10em;
+}
+
+#registration_form_submit
+{
+    border: none;
+    background-color: black;
+	color: white;
+    padding: 10px;
+	border-radius: 3px;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+#registration_form_insturment_drop_down
+{
+    width: 100%;
+    padding: 10px 14px;
+    background-color: #E0E0E0;
+}
+
+#registration_form_where_drop_down
+{
+    width: 100%;
+    padding: 10px 14px;
+    background-color: #E0E0E0;
+}
+
+#registration_loading_text
+{
+    display: none;
+    color: red;
+}
+
+.wide_input_field
+{
+    width: 100%;
+    border-radius: 0px;
+    border: none;
+    padding: 10px 14px;
+    background-color: #E0E0E0;
+}
+
+.large_input_field
+{
+    width: 100%;
+    height: 200;
+    border-radius: 0px;
+    border: none;
+    padding: 10px 14px;
+    background-color: #E0E0E0;
+}
+
+.half_wide_input_field
+{
+    width: 50%;
+}

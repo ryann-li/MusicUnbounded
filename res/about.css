@@ -1,0 +1,59 @@
+#about_blurb_title
+{
+   font-size: 1.5rem;
+}
+
+#mission_blurb_title
+{
+    font-size: 1.5rem;
+}
+
+#about_paragraph_wrapper
+{
+	margin-top: 3%;
+	margin-left: 10%;
+	display: inline-block;
+	width: 40%;
+}
+
+#mission_paragraph_wrapper
+{
+	margin-top: 7%;
+	width: 40%;
+	float: right;
+	margin-right: 10%;
+}
+
+#foundation_wrapper
+{
+	overflow: hidden;
+	margin-bottom: 3rem;
+}
+
+#mission_wrapper
+{
+	overflow: hidden;
+}
+
+#about_blurb
+{
+	display: inline-block;
+}
+
+#mission_blurb
+{
+	display: inline-block;
+	float: right;
+}
+
+.orchestra_image
+{
+    width: 40%;
+	float: right;
+}
+
+.teaching_image
+{
+    width: 40%;
+	float: left;
+}
