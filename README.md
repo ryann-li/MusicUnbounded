@@ -1,2 +1,3 @@
-# music-unbounded-website
-musicunbounded.org
+Website for non-profit organization Music Unbounded
+
+available at: https://musicunbounded.org/
