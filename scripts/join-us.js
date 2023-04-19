@@ -32,7 +32,7 @@ function Apply()
 {
 	if (document.getElementById('application_checkbox').checked == false)
 	{
-		alert("You did not accept the Teacher Guidelines. Please read the teacher guidelines and check the box.");
+		alert("Please accept teacher guidelines");
 		return;
 	}
     teacher_name = document.getElementById('application_teacher_name_field').value;
